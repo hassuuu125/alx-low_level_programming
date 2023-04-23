@@ -1,4 +1,5 @@
-#include <stido.h>
+#!/bin/bash
+#include<stido.h>
 /**
 * main - A program that prints a line with puts function
 * Return: 0 (success)
