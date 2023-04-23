@@ -1,10 +1,9 @@
-#include <stido.h>
+#include <stdio.h>
 /**
- * main - A program that print a line using a printf function
- * Return: 0 (success)
+ * Description:main - prints out a string to stdout.
+ * Return: 0 if success 
  */
-
-int main(void);
+int main(void)
 {
 printf("with proper grammar, but the outcome is a piece of art,\n");
 return (0);
