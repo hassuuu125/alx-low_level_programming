@@ -1,6 +1,6 @@
-#include <stido.h>
+#include <stdio.h>
 /**
-* description:main - prints out a string to stdout.
+* description:main - A program that prints a line with puts function
 * Return: 0 if success
 */
 int main(void)
