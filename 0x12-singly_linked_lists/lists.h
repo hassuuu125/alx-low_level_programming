@@ -1,5 +1,8 @@
-#ifndef LISTS_H_
-#define LISTS_H
+#ifndef LINKED
+#define LINKED
+#include <stddef.h>
+#include <stdlib.h>
+#include <string.h>
 /**
  * struct list_s - singly linked list
  * @str: string - (malloc'ed string)
@@ -7,7 +10,6 @@
  * @next: points to the next code
  *
  * Description: singly linked list node structure
- * for holberton project
  */
 typedef struct list_s
 {
